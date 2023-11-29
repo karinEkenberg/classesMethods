@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\classes and methods\classes and methods\obj\Debug\classes and methods.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\classes and methods\classes and methods\obj\Debug\classes and methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\classes and methods\classes and methods\obj\Debug\classes and methods.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\classes and methods\classes and methods\bin\Debug\classes and methods.exe.config
+C:\Users\zirko\source\repos\classes and methods\classes and methods\bin\Debug\classes and methods.exe
+C:\Users\zirko\source\repos\classes and methods\classes and methods\bin\Debug\classes and methods.pdb
+C:\Users\zirko\source\repos\classes and methods\classes and methods\obj\Debug\classes and methods.exe
+C:\Users\zirko\source\repos\classes and methods\classes and methods\obj\Debug\classes and methods.pdb
